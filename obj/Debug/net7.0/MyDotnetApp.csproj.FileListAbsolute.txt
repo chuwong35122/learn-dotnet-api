@@ -1,0 +1,15 @@
+/Users/chuwong/Devs/MyDotnetApp/bin/Debug/net7.0/MyDotnetApp
+/Users/chuwong/Devs/MyDotnetApp/bin/Debug/net7.0/MyDotnetApp.deps.json
+/Users/chuwong/Devs/MyDotnetApp/bin/Debug/net7.0/MyDotnetApp.runtimeconfig.json
+/Users/chuwong/Devs/MyDotnetApp/bin/Debug/net7.0/MyDotnetApp.dll
+/Users/chuwong/Devs/MyDotnetApp/bin/Debug/net7.0/MyDotnetApp.pdb
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.csproj.AssemblyReference.cache
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.AssemblyInfoInputs.cache
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.AssemblyInfo.cs
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.csproj.CoreCompileInputs.cache
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.dll
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/refint/MyDotnetApp.dll
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.pdb
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.genruntimeconfig.cache
+/Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/ref/MyDotnetApp.dll
