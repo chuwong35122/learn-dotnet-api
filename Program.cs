@@ -1,5 +1,6 @@
 global using MyDotnetApp.Models;
 global using MyDotnetApp.Services.CharacterServices;
+global using MyDotnetApp.Dtos.Character;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Injecting dependency
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
 builder.Services.AddScoped<ICharacterService, CharacterService>();
 
 var app = builder.Build();

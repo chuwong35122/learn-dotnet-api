@@ -31,3 +31,5 @@
 /Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.pdb
 /Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/MyDotnetApp.genruntimeconfig.cache
 /Users/chuwong/Devs/MyDotnetApp/obj/Debug/net7.0/ref/MyDotnetApp.dll
+/Users/chuwong/Devs/MyDotnetApp/bin/Debug/net7.0/AutoMapper.dll
+/Users/chuwong/Devs/MyDotnetApp/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

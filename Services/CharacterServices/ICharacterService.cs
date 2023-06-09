@@ -7,10 +7,10 @@ namespace MyDotnetApp.Services.CharacterServices
 {
   public interface ICharacterService
   {
-    List<Character> GetAllCharacter();
+    Task<ServiceResponse<List<GetCharacterDto>>> GetAllCharacter();
 
-    Character GetCharacterById(int id);
+    Task<ServiceResponse<GetCharacterDto>> GetCharacterById(int id);
 
-    List<Character> AddCharacter(Character newCharacter);
+    Task<ServiceResponse<List<AddCharacterDto>>> AddCharacter(AddCharacterDto newCharacter);
   }
 }
