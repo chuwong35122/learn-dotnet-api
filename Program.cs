@@ -1,3 +1,6 @@
+global using MyDotnetApp.Models;
+global using MyDotnetApp.Services.CharacterServices;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Injecting dependency
+builder.Services.AddScoped<ICharacterService, CharacterService>();
 
 var app = builder.Build();
 

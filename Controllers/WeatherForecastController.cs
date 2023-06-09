@@ -4,6 +4,7 @@ namespace MyDotnetApp.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+// Note: The WeatherForecastController creates a route of /weatherforecast (with any case combination)
 public class WeatherForecastController : ControllerBase
 {
   private static readonly string[] Summaries = new[]
