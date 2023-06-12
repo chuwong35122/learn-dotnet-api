@@ -11,5 +11,7 @@ public class Character
 
   public int Defense { get; set; }
 
+  public int Intelligence { get; set; }
+
   public RpgClass Class { get; set; } = RpgClass.Knight;
 }
